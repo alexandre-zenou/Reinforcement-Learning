@@ -16,7 +16,7 @@ The work was concluded by an **oral presentation delivered in front of a jury** 
 ## Repository Structure
 
 - `Code/` — Personal implementations and experiments  
-- `Report/` — Slides and LaTeX sources of the presentation  
+- `Report/` — Slides
 - `Research Paper/` — Original research article (Haarnoja et al., 2018)
 
 ---
