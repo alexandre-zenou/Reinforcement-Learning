@@ -1,6 +1,6 @@
 # Soft Actor-Critic (SAC)
 
-This repository contains the final project completed in the context of the **Reinforcement Learning course at École polytechnique** supervised by Luiz Chamon
+This repository contains the final project completed in the context of the **Reinforcement Learning course at École Polytechnique** supervised by **Luiz Chamon**
 
 The project is based on the paper:
 
